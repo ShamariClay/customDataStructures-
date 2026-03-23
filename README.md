@@ -7,10 +7,10 @@ This project implements core data structures from scratch in C++:
 - Hash Map with separate chaining
 - Binary Search Tree (optional)
 
-# Features
+## Features
 - Dynamic memory management with pointers
 - Basic operations: insert, delete, search, push/pop, enqueue/dequeue
 - Fully tested with 1000+ operations
 
-# How to Run
+## How to Run
 Compile and run using g++:
